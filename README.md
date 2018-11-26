@@ -7,11 +7,11 @@ python label_move_data.py --image_src_dir=/Data-Engineering/data_src --image_tar
 
 ## image_src_dir should have a structure as follow
 
-+-color1
- |--model1
-   |---image_file
- |--model2
-   |---image_file
-+-color2
++-color1  
+ |--model1  
+   |---image_file  
+ |--model2  
+   |---image_file  
++-color2  
 
 
